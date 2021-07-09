@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 .idea/
 
+<<<<<<< HEAD
 test
+=======
+test
+>>>>>>> 00931cab66a4dbb0cee77ae9280145635bdcaef7
